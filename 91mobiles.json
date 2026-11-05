@@ -1,7 +1,31 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-05",
+ "changed": "2026-11-06",
  "entries": [
+  {
+   "title": "Surkhi Bindi",
+   "date": "2026-11-08",
+   "platform": "Zee5, Chaupal",
+   "origLang": "pa",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/surkhi-bindi-movie-183862"
+  },
+  {
+   "title": "The Institute : Season 2",
+   "date": "2026-11-08",
+   "platform": "Prime Video",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/the-institute-season-2-series-149469"
+  },
+  {
+   "title": "Oxytoxin",
+   "date": "2026-11-07",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/oxytoxin-series-224284"
+  },
   {
    "title": "7 Star Boys",
    "date": "2026-11-06",
@@ -9,6 +33,38 @@
    "origLang": "ta",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/7-star-boys-movie-223725"
+  },
+  {
+   "title": "Awkwafina: The Unlikely Cook",
+   "date": "2026-11-06",
+   "platform": "Apple TV Plus",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/awkwafina-the-unlikely-cook-series-224288"
+  },
+  {
+   "title": "Baa Baa Black Sheep",
+   "date": "2026-11-06",
+   "platform": "SunNxt",
+   "origLang": "te",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/baa-baa-black-sheep-movie-223998"
+  },
+  {
+   "title": "Campus Drivers",
+   "date": "2026-11-06",
+   "platform": "Prime Video",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/campus-drivers-series-224240"
+  },
+  {
+   "title": "Devils' Crest",
+   "date": "2026-11-06",
+   "platform": "Prime Video",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/devils-crest-series-224290"
   },
   {
    "title": "Funny Money: The Dane Cook Story",
@@ -99,6 +155,14 @@
    "ref": "https://www.91mobiles.com/entertainment/vvan-movie-220485"
   },
   {
+   "title": "Under Siege",
+   "date": "2026-11-06",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/under-siege-series-224286"
+  },
+  {
    "title": "Unprotected: Murder in Galicia",
    "date": "2026-11-06",
    "platform": "Netflix",
@@ -107,12 +171,28 @@
    "ref": "https://www.91mobiles.com/entertainment/unprotected-murder-in-galicia-movie-224207"
   },
   {
+   "title": "Black Doves : Season 2",
+   "date": "2026-11-05",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/black-doves-season-2-series-147885"
+  },
+  {
    "title": "Dilwali Diwali",
    "date": "2026-11-05",
    "platform": "Netflix",
    "origLang": "hi",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/dilwali-diwali-movie-224285"
+  },
+  {
+   "title": "Kankaan De Ohle",
+   "date": "2026-11-05",
+   "platform": "Chaupal",
+   "origLang": "pa",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/kankaan-de-ohle-movie-222833"
   },
   {
    "title": "One Year to Live, Buy a Man",
