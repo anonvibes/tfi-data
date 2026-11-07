@@ -1,7 +1,183 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-07",
+ "changed": "2026-11-08",
  "entries": [
+  {
+   "title": "Cunk on Cinema",
+   "date": "2026-11-15",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/cunk-on-cinema-series-224227"
+  },
+  {
+   "title": "The chosen : Season 6",
+   "date": "2026-11-15",
+   "platform": "",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/the-chosen-season-6-series-140214"
+  },
+  {
+   "title": "12 12 12",
+   "date": "2026-11-13",
+   "platform": "Apple TV Plus",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/12-12-12-series-224099"
+  },
+  {
+   "title": "Being Heumann",
+   "date": "2026-11-13",
+   "platform": "Apple TV Plus",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/being-heumann-movie-224049"
+  },
+  {
+   "title": "Heartland",
+   "date": "2026-11-13",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/heartland-movie-224213"
+  },
+  {
+   "title": "Murder in Galicia",
+   "date": "2026-11-13",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/murder-in-galicia-series-224214"
+  },
+  {
+   "title": "Parivarik ManuRanjan",
+   "date": "2026-11-13",
+   "platform": "Sony Liv",
+   "origLang": "hi",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/parivarik-manuranjan-movie-224292"
+  },
+  {
+   "title": "Ranabaali",
+   "date": "2026-11-13",
+   "platform": "Netflix, BookMyShow",
+   "origLang": "te",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/ranabaali-movie-221874"
+  },
+  {
+   "title": "Student of the Year: After Dark",
+   "date": "2026-11-13",
+   "platform": "JioHotstar",
+   "origLang": "hi",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/student-of-the-year-after-dark-series-224184"
+  },
+  {
+   "title": "The Third Murder",
+   "date": "2026-11-13",
+   "platform": "ManoramaMax, BookMyShow",
+   "origLang": "ml",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/the-third-murder-movie-223948"
+  },
+  {
+   "title": "Allen",
+   "date": "2026-11-12",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/allen-movie-224232"
+  },
+  {
+   "title": "Miracles of the ER",
+   "date": "2026-11-12",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/miracles-of-the-er-series-224233"
+  },
+  {
+   "title": "Never Surrender",
+   "date": "2026-11-12",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/never-surrender-movie-224211"
+  },
+  {
+   "title": "The Empress : Season 3",
+   "date": "2026-11-12",
+   "platform": "",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/the-empress-season-3-series-149696"
+  },
+  {
+   "title": "Alicia's Law",
+   "date": "2026-11-11",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/alicias-law-series-224210"
+  },
+  {
+   "title": "ChiaroScuro",
+   "date": "2026-11-11",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/chiaroscuro-series-224229"
+  },
+  {
+   "title": "The Body",
+   "date": "2026-11-11",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/the-body-series-224230"
+  },
+  {
+   "title": "The Lord of the Rings: The Rings of Power : Season 3",
+   "date": "2026-11-11",
+   "platform": "Prime Video",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/the-lord-of-the-rings-the-rings-of-power-season-3-series-137067"
+  },
+  {
+   "title": "Tyler Perry's The Gospel of Christmas",
+   "date": "2026-11-11",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/tyler-perrys-the-gospel-of-christmas-movie-224231"
+  },
+  {
+   "title": "Last One Standing : Season 4",
+   "date": "2026-11-10",
+   "platform": "",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/last-one-standing-season-4-series-149498"
+  },
+  {
+   "title": "Doozie's Doghouse",
+   "date": "2026-11-09",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/doozies-doghouse-series-224208"
+  },
+  {
+   "title": "The Good Lawyer",
+   "date": "2026-11-09",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/the-good-lawyer-movie-224209"
+  },
   {
    "title": "Surkhi Bindi",
    "date": "2026-11-08",
