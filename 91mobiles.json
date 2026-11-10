@@ -1,6 +1,6 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-08",
+ "changed": "2026-11-11",
  "entries": [
   {
    "title": "Cunk on Cinema",
@@ -13,7 +13,7 @@
   {
    "title": "The chosen : Season 6",
    "date": "2026-11-15",
-   "platform": "",
+   "platform": "Prime Video",
    "origLang": "en",
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/the-chosen-season-6-series-140214"
@@ -27,6 +27,14 @@
    "ref": "https://www.91mobiles.com/entertainment/12-12-12-series-224099"
   },
   {
+   "title": "Bandra",
+   "date": "2026-11-13",
+   "platform": "Zee5",
+   "origLang": "ml",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/bandra-movie-212051"
+  },
+  {
    "title": "Being Heumann",
    "date": "2026-11-13",
    "platform": "Apple TV Plus",
@@ -35,12 +43,28 @@
    "ref": "https://www.91mobiles.com/entertainment/being-heumann-movie-224049"
   },
   {
+   "title": "Daayra",
+   "date": "2026-11-13",
+   "platform": "Netflix",
+   "origLang": "hi",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/daayra-movie-223207"
+  },
+  {
    "title": "Heartland",
    "date": "2026-11-13",
    "platform": "Netflix",
    "origLang": "en",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/heartland-movie-224213"
+  },
+  {
+   "title": "Mrigaya 1.5: The Hunt Continues",
+   "date": "2026-11-13",
+   "platform": "Zee5",
+   "origLang": "bn",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/mrigaya-15-the-hunt-continues-movie-222128"
   },
   {
    "title": "Murder in Galicia",
@@ -67,6 +91,14 @@
    "ref": "https://www.91mobiles.com/entertainment/ranabaali-movie-221874"
   },
   {
+   "title": "Snoopy Presents: 12 Days of Snoopy",
+   "date": "2026-11-13",
+   "platform": "Apple TV Plus",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/snoopy-presents-12-days-of-snoopy-movie-224329"
+  },
+  {
    "title": "Student of the Year: After Dark",
    "date": "2026-11-13",
    "platform": "JioHotstar",
@@ -91,6 +123,14 @@
    "ref": "https://www.91mobiles.com/entertainment/allen-movie-224232"
   },
   {
+   "title": "Jailer 2",
+   "date": "2026-11-12",
+   "platform": "Prime Video",
+   "origLang": "ta",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/jailer-2-movie-218100"
+  },
+  {
    "title": "Miracles of the ER",
    "date": "2026-11-12",
    "platform": "Netflix",
@@ -107,12 +147,28 @@
    "ref": "https://www.91mobiles.com/entertainment/never-surrender-movie-224211"
   },
   {
+   "title": "The Christmas Switch",
+   "date": "2026-11-12",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/the-christmas-switch-movie-224212"
+  },
+  {
    "title": "The Empress : Season 3",
    "date": "2026-11-12",
-   "platform": "",
+   "platform": "Netflix",
    "origLang": null,
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/the-empress-season-3-series-149696"
+  },
+  {
+   "title": "The Secret Lives of Mormon Wives: Orange County",
+   "date": "2026-11-12",
+   "platform": "JioHotstar",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/the-secret-lives-of-mormon-wives-orange-county-series-224322"
   },
   {
    "title": "Alicia's Law",
@@ -121,6 +177,14 @@
    "origLang": "en",
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/alicias-law-series-224210"
+  },
+  {
+   "title": "Avedon",
+   "date": "2026-11-11",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/avedon-movie-224321"
   },
   {
    "title": "ChiaroScuro",
