@@ -1,6 +1,6 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-11",
+ "changed": "2026-11-13",
  "entries": [
   {
    "title": "Cunk on Cinema",
@@ -27,6 +27,14 @@
    "ref": "https://www.91mobiles.com/entertainment/12-12-12-series-224099"
   },
   {
+   "title": "Avengers Endgame: Encore",
+   "date": "2026-11-13",
+   "platform": "JioHotstar",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/avengers-endgame-encore-movie-223678"
+  },
+  {
    "title": "Bandra",
    "date": "2026-11-13",
    "platform": "Zee5",
@@ -49,6 +57,14 @@
    "origLang": "hi",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/daayra-movie-223207"
+  },
+  {
+   "title": "Happy Journey",
+   "date": "2026-11-13",
+   "platform": "SunNxt",
+   "origLang": "te",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/happy-journey-movie-223665"
   },
   {
    "title": "Heartland",
@@ -121,6 +137,22 @@
    "origLang": "en",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/allen-movie-224232"
+  },
+  {
+   "title": "Bros : Season 2",
+   "date": "2026-11-12",
+   "platform": "",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/bros-season-2-series-150997"
+  },
+  {
+   "title": "Ethos : Season 2",
+   "date": "2026-11-12",
+   "platform": "",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/ethos-season-2-series-150888"
   },
   {
    "title": "Jailer 2",
