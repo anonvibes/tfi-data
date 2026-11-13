@@ -1,6 +1,6 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-13",
+ "changed": "2026-11-14",
  "entries": [
   {
    "title": "Cunk on Cinema",
@@ -51,6 +51,14 @@
    "ref": "https://www.91mobiles.com/entertainment/being-heumann-movie-224049"
   },
   {
+   "title": "Crawlers",
+   "date": "2026-11-13",
+   "platform": "Lionsgate Play",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/crawlers-movie-224347"
+  },
+  {
    "title": "Daayra",
    "date": "2026-11-13",
    "platform": "Netflix",
@@ -89,6 +97,14 @@
    "origLang": null,
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/murder-in-galicia-series-224214"
+  },
+  {
+   "title": "Must Date the Playboy!",
+   "date": "2026-11-13",
+   "platform": "Netflix",
+   "origLang": "ta",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/must-date-the-playboy-series-224348"
   },
   {
    "title": "Parivarik ManuRanjan",
@@ -161,6 +177,14 @@
    "origLang": "ta",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/jailer-2-movie-218100"
+  },
+  {
+   "title": "Love Is Blind, Habibi : Season 2",
+   "date": "2026-11-12",
+   "platform": "",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/love-is-blind-habibi-season-2-series-151031"
   },
   {
    "title": "Miracles of the ER",
