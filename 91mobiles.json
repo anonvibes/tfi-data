@@ -1,6 +1,6 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-15",
+ "changed": "2026-11-18",
  "entries": [
   {
    "title": "Yellowjackets : Season 4",
@@ -9,6 +9,30 @@
    "origLang": "en",
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/yellowjackets-season-4-series-147716"
+  },
+  {
+   "title": "Anbil Avan",
+   "date": "2026-11-20",
+   "platform": "Sony Liv",
+   "origLang": "ta",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/anbil-avan-movie-223854"
+  },
+  {
+   "title": "Dhindora : Season 2",
+   "date": "2026-11-20",
+   "platform": "",
+   "origLang": "hi",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/dhindora-season-2-series-151178"
+  },
+  {
+   "title": "Haiku",
+   "date": "2026-11-20",
+   "platform": "Netflix",
+   "origLang": "ta",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/haiku-movie-223842"
   },
   {
    "title": "On Behalf of My Son",
@@ -27,6 +51,22 @@
    "ref": "https://www.91mobiles.com/entertainment/percy-jackson-and-the-olympians-season-3-series-146978"
   },
   {
+   "title": "Perfect Liars",
+   "date": "2026-11-20",
+   "platform": "Prime Video",
+   "origLang": null,
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/perfect-liars-movie-224365"
+  },
+  {
+   "title": "Primetime Preacher$",
+   "date": "2026-11-20",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/primetime-preacher-movie-224366"
+  },
+  {
    "title": "Steps",
    "date": "2026-11-20",
    "platform": "Netflix",
@@ -41,6 +81,14 @@
    "origLang": null,
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/super-wings-season-22-series-147588"
+  },
+  {
+   "title": "Teen Tigada",
+   "date": "2026-11-20",
+   "platform": "Zee5",
+   "origLang": "hi",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/teen-tigada-series-224350"
   },
   {
    "title": "The Blue Road",
@@ -59,6 +107,14 @@
    "ref": "https://www.91mobiles.com/entertainment/the-altruists-series-224228"
   },
   {
+   "title": "Campus Diaries : Season 2",
+   "date": "2026-11-18",
+   "platform": "Prime Video",
+   "origLang": "hi",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/campus-diaries-season-2-series-151177"
+  },
+  {
    "title": "Gentle Monster",
    "date": "2026-11-18",
    "platform": "Netflix",
@@ -67,12 +123,28 @@
    "ref": "https://www.91mobiles.com/entertainment/gentle-monster-movie-224215"
   },
   {
+   "title": "Gordon",
+   "date": "2026-11-18",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/gordon-series-224363"
+  },
+  {
    "title": "Guarding Stars",
    "date": "2026-11-18",
    "platform": "Netflix",
    "origLang": "en",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/guarding-stars-movie-224222"
+  },
+  {
+   "title": "Madden",
+   "date": "2026-11-18",
+   "platform": "Prime Video",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/madden-movie-224364"
   },
   {
    "title": "Mr & Mrs Office",
@@ -89,6 +161,14 @@
    "origLang": null,
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/the-law-of-beasts-series-224223"
+  },
+  {
+   "title": "The Odyssey",
+   "date": "2026-11-18",
+   "platform": "Prime Video, Apple TV Plus",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/the-odyssey-movie-219593"
   },
   {
    "title": "Valentina and the 12 Signs",
