@@ -1,6 +1,6 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-20",
+ "changed": "2026-11-21",
  "entries": [
   {
    "title": "Yellowjackets : Season 4",
@@ -9,6 +9,14 @@
    "origLang": "en",
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/yellowjackets-season-4-series-147716"
+  },
+  {
+   "title": "418",
+   "date": "2026-11-20",
+   "platform": "Netflix",
+   "origLang": "te",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/418-movie-223420"
   },
   {
    "title": "Anbil Avan",
@@ -57,6 +65,14 @@
    "origLang": "ta",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/haiku-movie-223842"
+  },
+  {
+   "title": "Manglik",
+   "date": "2026-11-20",
+   "platform": "hoichoi, Netflix",
+   "origLang": "hi",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/manglik-series-224426"
   },
   {
    "title": "On Behalf of My Son",
@@ -121,6 +137,14 @@
    "origLang": null,
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/the-blue-road-series-224226"
+  },
+  {
+   "title": "#Cult",
+   "date": "2026-11-19",
+   "platform": "Prime Video",
+   "origLang": "te",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/cult-movie-224255"
   },
   {
    "title": "The Altruists",
