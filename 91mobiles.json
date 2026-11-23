@@ -1,6 +1,6 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-22",
+ "changed": "2026-11-24",
  "entries": [
   {
    "title": "Dhaai Chaal",
@@ -17,6 +17,14 @@
    "origLang": "hi",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/hanuman-ansh-movie-223329"
+  },
+  {
+   "title": "Octopus",
+   "date": "2026-11-27",
+   "platform": "Zee5",
+   "origLang": "ta",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/octopus-series-224367"
   },
   {
    "title": "The Hunchback: Soul of Paris",
@@ -97,6 +105,22 @@
    "origLang": "en",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/way-of-the-warrior-kid-movie-224050"
+  },
+  {
+   "title": "Dear 90's",
+   "date": "2026-11-23",
+   "platform": "Sony Liv",
+   "origLang": "bn",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/dear-90s-series-224394"
+  },
+  {
+   "title": "Notebook 90s",
+   "date": "2026-11-23",
+   "platform": "Sony Liv",
+   "origLang": "ta",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/notebook-90s-series-224401"
   },
   {
    "title": "Yellowjackets : Season 4",
