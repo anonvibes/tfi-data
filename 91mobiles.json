@@ -1,7 +1,47 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-24",
+ "changed": "2026-11-25",
  "entries": [
+  {
+   "title": "Holiday Ever After: A Disney World Wish Come True",
+   "date": "2026-11-28",
+   "platform": "JioHotstar",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/holiday-ever-after-a-disney-world-wish-come-true-movie-224448"
+  },
+  {
+   "title": "Salish's 12 Games of Christmas",
+   "date": "2026-11-28",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/salishs-12-games-of-christmas-series-224446"
+  },
+  {
+   "title": "The Grim Lover",
+   "date": "2026-11-28",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/the-grim-lover-series-224440"
+  },
+  {
+   "title": "Aadarsha Kutumbam House No: 47 - AK 47",
+   "date": "2026-11-27",
+   "platform": "Netflix",
+   "origLang": "te",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/aadarsha-kutumbam-house-no-47-ak-47-movie-223201"
+  },
+  {
+   "title": "Alan Carr's Great Big Bucket List",
+   "date": "2026-11-27",
+   "platform": "Prime Video",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/alan-carrs-great-big-bucket-list-series-224445"
+  },
   {
    "title": "Dhaai Chaal",
    "date": "2026-11-27",
@@ -9,6 +49,14 @@
    "origLang": "hi",
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/dhaai-chaal-series-224331"
+  },
+  {
+   "title": "Drishyam: The Conclusion",
+   "date": "2026-11-27",
+   "platform": "Netflix",
+   "origLang": "hi",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/drishyam-3-movie-220421"
   },
   {
    "title": "Hanuman Ansh",
@@ -33,6 +81,14 @@
    "origLang": null,
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/the-hunchback-soul-of-paris-movie-224216"
+  },
+  {
+   "title": "Tyson Fury",
+   "date": "2026-11-27",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/tyson-fury-movie-224438"
   },
   {
    "title": "Always on Call",
@@ -67,12 +123,36 @@
    "ref": "https://www.91mobiles.com/entertainment/sweetpea-season-2-series-148086"
   },
   {
+   "title": "The Hunting Wives : Season 2",
+   "date": "2026-11-26",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/the-hunting-wives-season-2-series-145835"
+  },
+  {
+   "title": "Toos: The Van der Valk Kidnapping",
+   "date": "2026-11-26",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/toos-the-van-der-valk-kidnapping-series-224436"
+  },
+  {
    "title": "Blade Runner 2099",
    "date": "2026-11-25",
    "platform": "Prime Video",
    "origLang": "en",
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/blade-runner-2099-series-223411"
+  },
+  {
+   "title": "Delhi 2021",
+   "date": "2026-11-25",
+   "platform": "Zee5",
+   "origLang": "hi",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/delhi-2021-movie-224447"
   },
   {
    "title": "Nine to Six",
@@ -97,6 +177,14 @@
    "origLang": "en",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/the-mosquito-bowl-movie-224219"
+  },
+  {
+   "title": "The Slightest Touch",
+   "date": "2026-11-25",
+   "platform": "JioHotstar",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/the-slightest-touch-movie-224435"
   },
   {
    "title": "Way of the Warrior Kid",
