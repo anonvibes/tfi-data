@@ -1,6 +1,6 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-25",
+ "changed": "2026-11-26",
  "entries": [
   {
    "title": "Holiday Ever After: A Disney World Wish Come True",
@@ -43,6 +43,14 @@
    "ref": "https://www.91mobiles.com/entertainment/alan-carrs-great-big-bucket-list-series-224445"
   },
   {
+   "title": "Corporate Love Story",
+   "date": "2026-11-27",
+   "platform": "Zee5",
+   "origLang": "kn",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/corporate-love-story-series-224459"
+  },
+  {
    "title": "Dhaai Chaal",
    "date": "2026-11-27",
    "platform": "JioHotstar",
@@ -59,6 +67,14 @@
    "ref": "https://www.91mobiles.com/entertainment/drishyam-3-movie-220421"
   },
   {
+   "title": "Finally",
+   "date": "2026-11-27",
+   "platform": "JioHotstar",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/finally-movie-224449"
+  },
+  {
    "title": "Hanuman Ansh",
    "date": "2026-11-27",
    "platform": "Sony Liv, BookMyShow",
@@ -73,6 +89,22 @@
    "origLang": "ta",
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/octopus-series-224367"
+  },
+  {
+   "title": "Sathyameva",
+   "date": "2026-11-27",
+   "platform": "Zee5",
+   "origLang": "ml",
+   "type": "series",
+   "ref": "https://www.91mobiles.com/entertainment/sathyameva-series-224460"
+  },
+  {
+   "title": "The Child",
+   "date": "2026-11-27",
+   "platform": "Netflix",
+   "origLang": null,
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/the-child-movie-224437"
   },
   {
    "title": "The Hunchback: Soul of Paris",
@@ -107,12 +139,28 @@
    "ref": "https://www.91mobiles.com/entertainment/fool-night-series-224221"
   },
   {
+   "title": "Garividi Lakshmi",
+   "date": "2026-11-26",
+   "platform": "Prime Video",
+   "origLang": "te",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/garividi-lakshmi-movie-220852"
+  },
+  {
    "title": "Spider-Man: Brand New Day",
    "date": "2026-11-26",
    "platform": "Netflix, Prime Video",
    "origLang": "en",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/spiderman-brand-new-day-movie-220374"
+  },
+  {
+   "title": "Supergirl",
+   "date": "2026-11-26",
+   "platform": "Prime Video, JioHotstar",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/supergirl-movie-223045"
   },
   {
    "title": "Sweetpea : Season 2",
