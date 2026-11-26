@@ -1,6 +1,6 @@
 {
  "source": "https://www.91mobiles.com/entertainment/ott-release-this-week",
- "changed": "2026-11-26",
+ "changed": "2026-11-27",
  "entries": [
   {
    "title": "Holiday Ever After: A Disney World Wish Come True",
@@ -19,12 +19,36 @@
    "ref": "https://www.91mobiles.com/entertainment/salishs-12-games-of-christmas-series-224446"
   },
   {
+   "title": "Sunny Di Honey",
+   "date": "2026-11-28",
+   "platform": "Chaupal",
+   "origLang": "pa",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/sunny-di-honey-movie-221870"
+  },
+  {
+   "title": "The Ghost and The Gun",
+   "date": "2026-11-28",
+   "platform": "Netflix",
+   "origLang": "en",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/the-ghost-and-the-gun-movie-224465"
+  },
+  {
    "title": "The Grim Lover",
    "date": "2026-11-28",
    "platform": "Netflix",
    "origLang": null,
    "type": "series",
    "ref": "https://www.91mobiles.com/entertainment/the-grim-lover-series-224440"
+  },
+  {
+   "title": "7 Dogs",
+   "date": "2026-11-27",
+   "platform": "Netflix, BookMyShow",
+   "origLang": null,
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/7-dogs-movie-223556"
   },
   {
    "title": "Aadarsha Kutumbam House No: 47 - AK 47",
@@ -65,6 +89,14 @@
    "origLang": "hi",
    "type": "film",
    "ref": "https://www.91mobiles.com/entertainment/drishyam-3-movie-220421"
+  },
+  {
+   "title": "Enemy Of The Smuggler",
+   "date": "2026-11-27",
+   "platform": "SunNxt, BookMyShow",
+   "origLang": "ta",
+   "type": "film",
+   "ref": "https://www.91mobiles.com/entertainment/enemy-of-the-smuggler-movie-224257"
   },
   {
    "title": "Finally",
